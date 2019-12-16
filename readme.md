@@ -1,5 +1,5 @@
-# CATTS
-Comparative Analysis of Text-to-Speech
+# CATSS
+Comparative Analysis of Tacotron Speech Synthesis
 
 ## Requirements
 Install the following as per their individual requirements, all in the same folder.
